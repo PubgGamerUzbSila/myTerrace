@@ -1,2 +1,32 @@
 /* project start */
+
+/* header section start */
+
+.pageEN > #header > .header__left > img {
+  width: 29px;
+  height: 29px;
+  flex-shrink: 0;
+}
+.pageEN > #header > .header__left > p {
+  color: #201f1f;
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+}
+.pageEN > #header > .header__left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* header section end */
+
+.hide {
+  display: none;
+}
+#hide {
+  display: none;
+}
 /* project end */
