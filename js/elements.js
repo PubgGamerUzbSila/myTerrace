@@ -1,1 +1,1 @@
-const header__rightP = document.querySelector('.header__rightP')
+const header__rightP = document.querySelector(".header__rightP");
