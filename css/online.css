@@ -88,4 +88,32 @@
     width: 149px;
     height: 44px; 
   }
+  .pageEN > #online > .online__bottom > .online__bottom__bottom{
+    width: 300px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid black;     
+    margin-top: 21px;
+  }
+  .pageEN > #online > .online__bottom > .online__bottom__bottom > .online__bottom__bottom__top {
+    display: flex;
+    justify-content: space-between;
+  }
+  .pageEN > #online > .online__bottom > .online__bottom__bottom > .online__bottom__bottom__middle {
+    color: #201F1F;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 0%;
+    letter-spacing: 2.025px; 
+    margin-top: 20px;
+  }
+  .pageEN > #online > .online__bottom > .online__bottom__bottom > .online__bottom__bottom__bottom {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
   /* online section end */
