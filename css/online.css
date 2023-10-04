@@ -63,8 +63,28 @@
     line-height: 150%; 
     width: 208px;     
   }
-  .pageEN > #online > .online__bottom > .online__bottom__middle > .appleBtn,
+  .pageEN > #online > .online__bottom > .online__bottom__middle {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  .pageEN > #online > .online__bottom > .online__bottom__middle > .appleBtn {
+    border: none;
+    background-color: #fff;
+    color: #fff;
+    cursor: pointer;
+  }
   .pageEN > #online > .online__bottom > .online__bottom__middle > .appleBtn > svg{
+    width: 149px;
+    height: 44px; 
+  }
+  .pageEN > #online > .online__bottom > .online__bottom__middle > .googleBtn {
+    border: none;
+    background-color: #fff;
+    color: #fff;
+    cursor: pointer;
+  }
+  .pageEN > #online > .online__bottom > .online__bottom__middle > .googleBtn > svg{
     width: 149px;
     height: 44px; 
   }
